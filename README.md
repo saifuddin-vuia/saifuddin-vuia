@@ -1,34 +1,40 @@
-# Hi, I'm Saif Uddin Bhuia 
+# Hi, I'm Saif Uddin Vuia
 
 ## About Me
 
-I am a Computer Science & Engineering graduate with a strong interest in Data Analytics, Business Intelligence, and Data Visualisation.
+🎓 Computer Science & Engineering Graduate
 
-My goal is to build a career as a Data Analyst and pursue an MSc in Data Analytics in Ireland.
+📊 Aspiring Data Analyst
+
+📈 Interested in Data Analytics, Business Intelligence, and Data Visualisation
+
+🇧🇩 Based in Bangladesh
 
 ## Skills
 
-- SQL
 - Python
+- SQL
 - Power BI
 - Microsoft Excel
-- Data Cleaning
+- Pandas
+- NumPy
 - Data Visualisation
 - Statistics
-- Business Analytics
 
 ## Currently Learning
 
 - Advanced Power BI
-- Data Modelling
+- Data Analytics Projects
 - Machine Learning Fundamentals
-- Dashboard Development
+- Business Intelligence
 
-## Projects
+## Goals for 2026
 
-Projects will be added here as I continue building my portfolio.
+- Build strong Data Analytics projects
+- Earn Microsoft PL-300 Certification
+- Pursue an MSc in Data Analytics in Ireland
+- Secure a Data Analyst role
 
 ## Connect With Me
 
-- LinkedIn: Coming Soon
-- Email: saifuddin.vuia@gmail.com
+📧 saifuddin.vuia@gmail.com
